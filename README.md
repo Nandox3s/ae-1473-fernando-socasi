@@ -127,5 +127,5 @@ La coleccion se encuentra en:
 
 ## Entregables
 
-- Repositorio GitHub: https://github.com/Nandox3s/-ae_2026_Fernando_Socasi_clase_4.git.
+- Repositorio GitHub: https://github.com/Nandox3s/ae-1473-fernando-socasi.git
 - Coleccion Postman: incluida en la carpeta `postman`.
